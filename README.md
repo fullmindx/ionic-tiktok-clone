@@ -15,7 +15,7 @@ npm install -g @ionic/cli
 
 * Vá para o local do projeto.
 
-* Abra o terminal e rode os comandos:.
+* Abra o terminal e rode os comandos:
 ~~~ 
 npm install 
 ~~~ 
